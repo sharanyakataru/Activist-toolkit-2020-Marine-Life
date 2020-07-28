@@ -95,7 +95,7 @@ li.nav a {
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
   background-color: 41D0B4;
-  color: #43d6b9ff;
+  color: 41D0B4;
 }
 
 /************************************************/
