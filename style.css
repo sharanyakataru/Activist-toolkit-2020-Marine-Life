@@ -195,7 +195,16 @@ li.nav a:hover {
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
-.image-two
+.image-two {
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Fimage.jpg?v=1595974178455")
+  
+.image-three}
+  {
+    }
+    {
+      }
+      
+}
 /* TODO: Add more background images by repeating the process above */
 
 /*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
