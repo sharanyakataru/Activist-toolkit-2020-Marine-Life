@@ -21,7 +21,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: 2DF524; /* Change the background color */
+  background-color: #2DF524; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -30,7 +30,7 @@ h1 {
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
-  color: 2DF524;
+  color: #2DF524;
   text-align: center;
 }
 
@@ -39,14 +39,14 @@ h2 {
   letter-spacing: 3px;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
-  color: 2DF524;
+  color: #2DF524;
   text-align: center;
   line-height: 1.3em;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
-  color: 2DF524;
+  color: #2DF524;
   text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: 2DF524;
+  color: #2DF524;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -94,8 +94,8 @@ li.nav a {
 
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
-  background-color: 2DF524;
-  color: 2DF524;
+  background-color: #2DF524;
+  color: #2DF524;
 }
 
 /************************************************/
@@ -161,7 +161,7 @@ li.nav a:hover {
 /* TODO (optional): Change the background color and/or text alignment */
 
 .text-section {
-  background-color: 2DF524;
+  background-color: #2DF524;
   padding: 20px 45px;
   margin: 35px;
   text-align: center;
@@ -172,7 +172,7 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,{
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F6d2a938ad24c43758046c5610b15fc22_18.jpg?v=1595973476775")
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F6d2a938ad24c43758046c5610b15fc22_18.jpg?v=1595973476775");
  
   position: relative;
   background-position: center;
@@ -185,7 +185,7 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 .image-one {
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F966a6644-a092-4ec0-899f-f6bb377af14b-min%20(1).jpg?v=1595975557874")
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F966a6644-a092-4ec0-899f-f6bb377af14b-min%20(1).jpg?v=1595975557874");
   
     position: relative;
   background-position: center;
@@ -198,7 +198,7 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 .image-two{
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Fimage.jpg?v=1595974178455")
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Fimage.jpg?v=1595974178455");
   
     position: relative;
   background-position: center;
@@ -211,7 +211,7 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 .image-three{
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F300px-Chilean_purse_seine.jpg?v=1595974206480")
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F300px-Chilean_purse_seine.jpg?v=1595974206480");
   
   position: relative;
   background-position: center;
@@ -236,10 +236,10 @@ li.nav a:hover {
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 .image-two {
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Fimage.jpg?v=1595974178455")
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Fimage.jpg?v=1595974178455");
   }
 .image-three {
-    background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F300px-Chilean_purse_seine.jpg?v=1595974206480")
+    background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F300px-Chilean_purse_seine.jpg?v=1595974206480");
 }
 /* TODO: Add more background images by repeating the process above */
 
