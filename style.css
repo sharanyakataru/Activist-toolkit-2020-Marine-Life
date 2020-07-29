@@ -181,7 +181,7 @@ li.nav a:hover {
   min-height: 100%; /* This adjusts the height of the image */
 
   /* TODO: Add the property to create the parallax scrolling effect here */
-  
+  background-attachment: fixed;
 }
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
@@ -215,9 +215,6 @@ li.nav a:hover {
 /******************************************************/
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
-@media screen and (max-width: 700px) {
-  
-  .flex-container {
-    flex-wrap: wrap
+
 
 /* TODO: Add additional breakpoints based on your website's design
