@@ -46,7 +46,7 @@ h2 {
 
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
-  color: #2DF524;
+  color: #ffff00;
   text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: #2DF524;
+  color: #0FE5A7;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -94,8 +94,8 @@ li.nav a {
 
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
-  background-color: #2DF524;
-  color: #2DF524;
+  background-color: #00A2FF;
+  color: blue;
 }
 
 /************************************************/
