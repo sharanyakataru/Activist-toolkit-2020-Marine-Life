@@ -185,7 +185,7 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 .image-one {
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F6d2a938ad24c43758046c5610b15fc22_18.jpg?v=1595973476775");
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Funder-the-sea-1.jpg?v=1596131201345");
   
     position: relative;
   background-position: center;
@@ -244,7 +244,7 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own */
 .image-one{
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F6d2a938ad24c43758046c5610b15fc22_18.jpg?v=1595973476775");
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Funder-the-sea-1.jpg?v=1596131201345");
 }
 
 .image-two{
