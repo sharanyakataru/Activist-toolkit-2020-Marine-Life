@@ -172,7 +172,7 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,{
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F6d2a938ad24c43758046c5610b15fc22_18.jpg?v=1595973476775");
+  background-image: url();
  
   position: relative;
   background-position: center;
@@ -185,7 +185,7 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 .image-one {
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F966a6644-a092-4ec0-899f-f6bb377af14b-min%20(1).jpg?v=1595975557874");
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F6d2a938ad24c43758046c5610b15fc22_18.jpg?v=1595973476775");
   
     position: relative;
   background-position: center;
@@ -211,8 +211,7 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 .image-three{
-  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2Fmaldives-tuna-fishermen-900_eyeswideopen-via-getty-min%20(2).jpg?v=1595975753510");
-  
+  background-image: url("https://cdn.glitch.com/3b0c272c-dc42-4577-a587-621aa853961e%2F966a6644-a092-4ec0-899f-f6bb377af14b-min%20(1).jpg?v=1595975557874");
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
