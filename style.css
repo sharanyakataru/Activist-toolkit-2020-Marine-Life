@@ -21,7 +21,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: #2DF524; /* Change the background color */
+  background-color: #0FDFE5; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -29,8 +29,8 @@ h1 {
   letter-spacing: 5px;
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
-  font-family: "Roboto Mono", sans-serif;
-  color: #2DF524;
+  font-family: "Pacifico", sans-serif;
+  color: #EB5A0C;
   text-align: center;
 }
 
@@ -38,8 +38,8 @@ h1 {
 h2 {
   letter-spacing: 3px;
   font-size: 25px;
-  font-family: "Roboto Mono", sans-serif;
-  color: #2DF524;
+  font-family: "Pacifico", sans-serif;
+  color: #EB5A0C;
   text-align: center;
   line-height: 1.3em;
 }
