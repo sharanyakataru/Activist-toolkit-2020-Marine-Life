@@ -103,7 +103,7 @@ li.nav a:hover {
 /************************************************/
 
 /* TODO: Review the CSS properties to the flexbox container for title and intro text */
-.flex-container {
+.flex-container-action {
   display: flex; /* Set the flexbox display */
   flex-direction: row; /* Configure the flex items to row */
   flex-wrap: nowrap; /* Don’t wrap the flex items */
