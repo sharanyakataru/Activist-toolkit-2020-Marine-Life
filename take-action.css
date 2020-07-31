@@ -138,7 +138,7 @@ like a checkmark!
 
 /* Change background color when cursor hovers over list items */
 #my-list li:hover {
-  background: #FFFFFF;
+  background: #e6e6e6;
   color: #FFFFFF;
 }
 
