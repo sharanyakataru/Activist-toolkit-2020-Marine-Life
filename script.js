@@ -3,7 +3,7 @@
 /************************************************/
 
 /* TODO: Add a variable to store the "my-list" element */
-var fullItemList = document.getElementById("my-list”);
+var fullItemList = document.getElementById("my-list");
 if (fullItemList) {
   fullItemList.addEventListener("click", checkOffItem); 
 }
